@@ -10,7 +10,7 @@ This is a simple Discord bot that includes various commands and event handling f
 
 To use the bot, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/Discord-Bot.git`
+1. Clone this repository: `git clone https://github.com/kayliese/Discord-Bot.git`
 2. Install the required packages: `npm install`
 3. Create a new Discord bot account and obtain the bot token. [Here's a guide on how to do it.](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)
 4. Create a `.env` file in the root directory of the project, and add your Discord bot token like this: `DISCORD_BOT_TOKEN=your-token-here`
